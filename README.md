@@ -6,13 +6,13 @@ It introduces who I am and showcases sample projects in a clean, responsive layo
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML
 - CSS (Flexbox & Media Queries)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 project-folder/
 │
@@ -23,7 +23,7 @@ project-folder/
 
 ---
 
-## ▶️ How to View the Project
+##  How to View the Project
 
 ### Option 1: Using Live Server (Recommended)
 1. Open the project folder in **Visual Studio Code**
@@ -32,6 +32,8 @@ project-folder/
 4. Select **"Open with Live Server"**
 
 The page will open automatically in your browser.
+(***If you want to be able to toggle between the pages in the navigation bar, 
+you will have to download the other .html files)
 
 ---
 
@@ -42,7 +44,7 @@ The page will open automatically in your browser.
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 This landing page includes **media queries** to ensure it displays well on:
 - Desktop
 - Tablet
@@ -50,7 +52,7 @@ This landing page includes **media queries** to ensure it displays well on:
 
 ---
 
-## ✨ Features
+##  Features
 - Navigation bar with hover effects
 - Hero section with image and introduction
 - Projects section with Flexbox layout
