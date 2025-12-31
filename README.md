@@ -61,7 +61,7 @@ This landing page includes **media queries** to ensure it displays well on:
 
 ---
 
-## 📌 Notes
+## Notes
 This project was created as part of a learning challenge to practice:
 - HTML structure
 - CSS styling
