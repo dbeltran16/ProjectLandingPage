@@ -42,6 +42,8 @@ you will have to download the other .html files)
 2. Double-click the file
 3. It will open in your default web browser
 
+4. For some reason, I tried this option, and it would not let me open it. 
+
 ---
 
 ##  Responsive Design
